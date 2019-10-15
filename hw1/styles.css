@@ -1,0 +1,23 @@
+/* menu styles */
+.menu ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  background-color: #FF0000;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
+
+/* Background Cover */
+.background_cover {
+
+  background-image: url("img/background_image.jpg");
+
+  height: 300%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
