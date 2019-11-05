@@ -53,3 +53,7 @@ Step 8: Create the database to be connected with the code:
 
 	
 	CREATE DATABASE myDB;
+
+REFERENCES:
+[1]: https://phoenixnap.com/kb/how-to-install-mysql-on-ubuntu-18-04#htoc-step-1-download-the-mysql-repositories
+[2]: http://www.mysqltutorial.org/mysql-create-database/
