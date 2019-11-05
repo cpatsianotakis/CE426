@@ -1,3 +1,11 @@
+/*	************ Author: Patsianotakis Charalampos     ************
+*
+* 	************ This is a simple dynamic website,     ************
+* 	************ connected with a database to register ************
+* 	************ and login.                            ************
+*
+*/
+
 package dataBase;
 
 import java.util.Scanner;
