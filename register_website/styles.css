@@ -1,0 +1,42 @@
+/* menu styles */
+.menu ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  height: 50%;
+  position: relative;
+  overflow: auto;
+  text-align: center;
+  float: center;
+  text-align:center;
+}
+
+/* Background Cover */
+.background_cover {
+
+  background-image: url("img/background_image.jpg");
+
+  height: 300%;
+
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+table.b01 {
+	background-color: grey;
+	border: 2px solid white;
+	height: 30%;
+	color:white;
+	text-align:center;
+}
+
+th.b01 {
+	border: 2px solid white;
+	height: 10%;
+}
+
+td.b01 {
+	border: 2px solid white
+}
